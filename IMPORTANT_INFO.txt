@@ -1,0 +1,7 @@
+You need to install the rabbitmq and postgres and also you need set the necessary variables in the .env.development file.
+
+To install the package use command => "npm install"
+To start the server use command => "npm run dev" (It uses nodemon)
+If you do not have nodemon installed then use this command => "npm build" and then "npm start"
+
+PS: I am *NOT* sending any email or SMS for reminder I am just logging it to the console
